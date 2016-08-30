@@ -4,7 +4,7 @@ Scala/Java wrapper for downloading meteorological data from the [ECMWF public da
 
 The command line Class is implemented in Scala.
 
-The Java source code from org.ecmwf, org.json and org.json.zip have been included.
+The Java source code from org.ecmwf, org.json and org.json.zip have been included in the wrapper code.
 
 For other instructions of the ECMWF api see [ECMWF api].
 
